@@ -1,0 +1,32 @@
+.side{
+    background-color: darkgoldenrod;
+    padding: 20px;
+
+}
+body{
+    text-align: center;
+    background-color: yellow;
+}
+.side a{
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+h1,h2{
+    color: white;
+    margin-top: 40px;
+
+}
+img{
+    width: 400px;
+    height: 400px;
+    margin-top: 40px;
+}
+p{
+    font-size: 20px;
+    margin-top: 40px;
+}

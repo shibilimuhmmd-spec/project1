@@ -1,0 +1,25 @@
+body{
+    background-image: url(https://cdn.pixabay.com/photo/2024/07/14/14/42/woman-8894656_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.side{
+
+    background-color: darkgoldenrod;
+    padding: 20px;
+}
+h1{
+    text-align: center;
+    color: white;
+    padding: 150px;
+}
+.side a{
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+}
